@@ -1,0 +1,6 @@
+{
+  "name": "Kids Vocab Island - 小学英语趣学乐园",
+  "description": "专为小学生设计的英语单词互动闯关乐园：拼读发音、趣味拼图、双人PK对战与记忆翻牌。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
